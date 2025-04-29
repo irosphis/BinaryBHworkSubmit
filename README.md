@@ -8,3 +8,7 @@
 2． 利用 hdf5 生成的演化过程视频。
 
 3． 提交 GRChombo/Examples/BinaryBH/data 文件夹中的全部内容。
+
+![引力波模式 l=2, m=0 的信号提取结果图](weyl_l2_m0.png)
+
+
